@@ -1,27 +1,5 @@
 #EXTM3U
 #EXTINF:-1,ACCION
-http://juu4r.000webhostapp.com/ACC10N
-#EXTINF:-1,ANIMACION
-http://juu4r.000webhostapp.com/4N1MAC10N
-#EXTINF:-1,ANIME
-http://osme074.000webhostapp.com/p35-1n3m2
-#EXTINF:-1,AVENTURA Y FANTASIA
-http://juu4r.000webhostapp.com/4V3NTUR4
-#EXTINF:-1,DRAMA
-http://yy3.000webhostapp.com/dr4m4
-#EXTINF:-1,CIENCIA FICCION
-http://yy3.000webhostapp.com/c13nc1a
-#EXTINF:-1,CRISTIANAS
-http://juu4r.000webhostapp.com/CR1ST14N4S 
-#EXTINF:-1,COMEDIA
-http://juu4r.000webhostapp.com/C0M3D14
+http://raw.githubusercontent.com/vallesolar/Peliiculas/master/ACC10N.m3u
 #EXTINF:-1,INFANTIL
-http://osme074.000webhostapp.com/p35-3nf1nt3l
-#EXTINF:-1,ROMANCE
-http://juu4r.000webhostapp.com/R0M4NC3 
-#EXTINF:-1,SUSPENSO
-http://yy3.000webhostapp.com/5u5p3ns0 
-#EXTINF:-1,TERROR
-http://osme074.000webhostapp.com/p35-t2rr4r
-#EXTINF:-1,TERROR 2
-http://pastebin.com/raw/PUuANZha
+http://github.com/vallesolar/Peliiculas/raw/master/Infantiles.m3u
